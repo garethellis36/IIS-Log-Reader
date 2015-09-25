@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gumbercules/iislogparser": "^0.1.1",
+        "slim/slim": "^2.6"
+    }
+}
